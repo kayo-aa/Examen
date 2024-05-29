@@ -1,4 +1,4 @@
-# Telectronica-Examen
+# Examen
 
 Programa desarrollado en C++ para jugar una adivinanza.
 
